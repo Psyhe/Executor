@@ -1,7 +1,7 @@
 # EXECUTOR 
 The project manages concurrent program execution and can output the last lines printed by the executed programs. It can also stop running programs.
 
-The command 
+The command:
 
 cd mw431552 && mkdir build && cd build && cmake .. && make
 
